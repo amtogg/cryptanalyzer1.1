@@ -1,9 +1,14 @@
 
+
+java:S1854"ERemove this useless assignment to local variable "bruteForceService".(şãÉ¦úÿÿÿÿ8êè–©†2J$a281c6da-f5e8-41d2-9e92-384b8194d225
 ‹
-java:S1854"CRemove this useless assignment to local variable "bruteForceModel".(öØìˆùÿÿÿÿ8ğŠŞœ†2J$738de207-8401-47c4-8e52-29fc43d26d07
+java:S1854"CRemove this useless assignment to local variable "bruteForceModel".(öØìˆùÿÿÿÿ8ğŠŞœ†2J$47b3dfe0-abf9-447a-90b9-f18e1693a4b8
 ‡
-java:S1854"?Remove this useless assignment to local variable "cryptoModel".(ú¸‰Şùÿÿÿÿ8„ıĞœ†2J$05bb3c07-d4b0-4951-a8bc-41e25c726287
+java:S1854"?Remove this useless assignment to local variable "cryptoModel".(ú¸‰Şùÿÿÿÿ8´Ò­ª†2J$0778edcb-8a70-48e8-bf95-91f9bda4dcd3
 x
-java:S1481"0Remove this unused "cryptoModel" local variable.(ú¸‰Şùÿÿÿÿ8—ıĞœ†2J$207f9bec-33b0-47bd-b5e4-36a1cf881cf7
+java:S1481"0Remove this unused "cryptoModel" local variable.(ú¸‰Şùÿÿÿÿ8·Ò­ª†2J$9e0530bc-c14b-4608-9d64-e647fe84c4d9
 |
-java:S1481"4Remove this unused "bruteForceModel" local variable.(öØìˆùÿÿÿÿ8÷ŠŞœ†2J$571ceab7-fb58-42d9-bbf1-65e9f95a6e63
+java:S1481"4Remove this unused "bruteForceModel" local variable.(öØìˆùÿÿÿÿ8÷ŠŞœ†2J$04514476-e38f-46fe-a1f6-8e1f152a5362
+~
+java:S1481"6Remove this unused "bruteForceService" local variable.(şãÉ¦úÿÿÿÿ8ùè–©†2J$47b0b1e8-783d-4a16-bc30-37c20d9fb8b9
+~	java:S125"<This block of commented-out lines of code should be removed.(ì°´è8î¶–©†2J$ba9193a8-e4b7-420d-91e0-4e2251e0e33c

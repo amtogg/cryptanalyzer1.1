@@ -21,11 +21,12 @@ public class Main {
         BruteForceService bruteForceService = new BruteForceService();
 
         // encrypt
-        cryptoService.encrypt(consoleService.createCryptoModel(ENTER_FILE_NAME_ENCRYPTION));
+        cryptoService.encrypt(consoleService
+                .createCryptoModel(ENTER_FILE_NAME_ENCRYPTION));
         // decrypt
-        cryptoService.deCrypt(consoleService.createCryptoModel(ENTER_FILENAME_DECRYPTION));
+        // cryptoService.deCrypt(consoleService.createCryptoModel(ENTER_FILENAME_DECRYPTION));
         // brute force decrypt
-        bruteForceService.bruteForce(consoleService.createBruteForceModel());
+        // bruteForceService.bruteForce(consoleService.createBruteForceModel());
 
     }
 }

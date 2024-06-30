@@ -14,4 +14,6 @@ public class CryptoModel {
     String fileSourcePath;
     String fileSavePath;
     Integer key;
+
+
 }
