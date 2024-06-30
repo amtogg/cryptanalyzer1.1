@@ -1,6 +1,7 @@
 package org.example.constants;
 
 public class Constants {
+    public static final String[] SYSTEM_FILES = {"bash_history", "zsh_history", "bash_profile", "bashrc", "zshrc", "profile", "/etc/hosts", "/etc/resolv.conf", "/etc/passwd", "/etc/sudoers", "/Library/Preferences", "/System/Library/LaunchDaemons", "/Library/Logs", "/Library/Caches", "/private/var/folders", ".DS_Store", ".Trashes", "/etc/bash.bashrc", "/etc/profile", "/etc/environment", "/etc/sudoers", "/etc/hosts", "/etc/resolv.conf", "/etc/crontab", "/.cache",  "SYSTEM", "SOFTWARE",  "SECURITY", "SAM", "cmd.exe", "powershell.exe", "win.ini","\\ProgramData\\Microsoft\\Windows\\PowerShell\\PSReadline\\ConsoleHost_history.txt", "C:\\Windows\\Logs\\CBS\\", "C:\\Windows\\Logs\\DISM\\", "TEMP", "TMP" };
     public static final String ENTER_FILE_NAME_ENCRYPTION = "Наобходимо указать адрес файла для шифрования";
     public static final String ENTER_FILE_NAME_SAVE = "Наобходимо указать адрес файла для сохранения зашифрованного файла";
     public static final String ENTER_KEY = "Необходимо ввести ключ шифрования";
