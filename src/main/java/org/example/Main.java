@@ -1,5 +1,7 @@
 package org.example;
 
+import org.example.console.ConsoleDialogue;
+import org.example.console.Dialogue;
 import org.example.model.BruteForceModel;
 import org.example.model.CryptoModel;
 import org.example.service.BruteForceService;
@@ -28,5 +30,7 @@ public class Main {
         // brute force decrypt
         // bruteForceService.bruteForce(consoleService.createBruteForceModel());
 
+        Dialogue dialogue = new ConsoleDialogue();
+        dialogue.start();
     }
 }
